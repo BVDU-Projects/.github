@@ -4,7 +4,7 @@ Collaborative academic engineering projects under the BVDU series.
 
 ## Current Projects
 
-### 🚀 [BVDU-BANK](https://github.com/BVDU-Projects/BVDU-BANK)
+### 🏦 [BVDU-BANK](https://github.com/BVDU-Projects/BVDU-BANK)
 Console-based Banking & Trading Management System written in C.
 
 ### 🚆 [BVDU-RailX](https://github.com/BVDU-Projects/BVDU-RailX)
