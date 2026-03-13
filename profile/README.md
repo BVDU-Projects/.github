@@ -12,7 +12,7 @@
 Console-based Banking & Trading Management System written in C.
 
 ### 🚆 [BVDU-RailX](https://github.com/BVDU-Projects/BVDU-RailX)
-Metro network simulation and routing engine built in C.
+Multi-line rail network simulation and routing engine built in C.
 
 ---
 
