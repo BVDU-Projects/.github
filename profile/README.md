@@ -6,7 +6,14 @@
 
 **Collaborative academic engineering projects under the BVDU series, focused on system design, algorithms, and structured software development.**
 
-## Current Projects
+## 🚀 Active Project
+
+### 🛡️ [BVDU-SecQuery](https://github.com/BVDU-Projects/BVDU-SecQuery)
+Local & Cloud Threat Intelligence Engine and Endpoint Malware Scanner in Python.
+
+---
+
+## 🏁 Completed Projects
 
 ### 🏦 [BVDU-BANK](https://github.com/BVDU-Projects/BVDU-BANK)
 Console-based Banking & Trading Management System written in C.
